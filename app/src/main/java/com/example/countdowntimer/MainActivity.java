@@ -11,7 +11,7 @@ import java.sql.Time;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    private static final long StartTime_inMillis = 600000;
+    private static final long StartTime_inMillis = 1800000;
     private TextView mViewCountdown;
     private Button StartPause;
     private Button  ResetButton;
